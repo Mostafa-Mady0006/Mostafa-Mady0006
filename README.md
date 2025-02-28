@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa!
+## 💻 Front-End Developer 🚀
 
-<!--
-**Mostafa-Mady0006/Mostafa-Mady0006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔹 I have learned **HTML, CSS, and Bootstrap**.
+- 🔹 I'm currently learning **JavaScript**.
+- 🔹 My goal is to become a professional web developer.
 
-Here are some ideas to get you started:
+## 📫 Contact Me:
+- 📌 [LinkedIn](Your LinkedIn Profile)
+- 📌 [GitHub](https://github.com/your-username)
+- 📌 Email: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ My Skills:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
